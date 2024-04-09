@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Ad Skipper",
     "version": "1.0",
-    "author": "Arnabjk008",
+    "author": "Arnabjk008 and arjun",
     "description": "Skip ads on youtube lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "permissions": ["activeTab", "scripting"],
     "action": {

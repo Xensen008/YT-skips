@@ -9,7 +9,7 @@ function checkForAds(){
         video.muted = false;
     }
 
-    let skipButton = document.querySelector(".ytp-ad-skip-button-modern.ytp-button");
+    let skipButton = document.querySelector(".ytp-ad-skip-button-modern");
     if (skipButton){
         skipButton.click();
     }
