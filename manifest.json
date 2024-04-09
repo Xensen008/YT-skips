@@ -3,7 +3,7 @@
     "name": "Ad Skipper",
     "version": "1.0",
     "author": "Arnabjk008 and arjun",
-    "description": "Skip ads on youtube lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "description": "Ad Skipper is a Chrome extension designed to enhance your YouTube viewing experience by automatically skipping ads. No more interruptions - just smooth, uninterrupted videos.",
     "permissions": ["activeTab", "scripting"],
     "action": {
         "default_popup": "popup.html"
